@@ -1,2 +1,2 @@
 # BP_tracker
-This software will patients BP
+This software will track patients BP
